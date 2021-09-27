@@ -37,13 +37,13 @@ Strikethrough uses two tildes. <s>Scratch this</s>.
 - [ ] 2nd things
 ---
 python code
-```python
+```python=
 s = "Python syntax highlighting"
 print s
 ```
 ---
 javascript code
-```javascript
+```javascript=
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
