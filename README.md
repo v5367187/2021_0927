@@ -22,7 +22,6 @@ Combined emphasis with **asterisks and underscores**.
 Strikethrough uses two tildes. <s>Scratch this</s>.
 
 ---
-
 1. First ordered list item</br>
 2. Another item</br>
     · ·* Unordered sub-list.</br>
@@ -38,13 +37,13 @@ Strikethrough uses two tildes. <s>Scratch this</s>.
 - [ ] 2nd things
 ---
 python code
-```python
+```python=
 s = "Python syntax highlighting"
 print s
 ```
 ---
 javascript code
-```javascript
+```javascript=
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
