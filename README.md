@@ -25,13 +25,13 @@ Strikethrough uses two tildes. <s>Scratch this</s>.
 
 1. First ordered list item</br>
 2. Another item</br>
-    ..* Unordered sub-list.</br>
+    · ·* Unordered sub-list.</br>
 3. Actual numbers don’t matter, just that it’s a number</br>
-    ..1. Ordered sub-list</br>
+    · ·1. Ordered sub-list</br>
     …2. 2nd</br>
 4. And another item. </br>
     ...* note 1</br>
-    …* note 2</br>
+    ...* note 2</br>
     *** note 3
 ---
 - [ ] todo list
