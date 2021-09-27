@@ -22,16 +22,16 @@ Combined emphasis with **asterisks and underscores**.
 Strikethrough uses two tildes. <s>Scratch this</s>.
 
 ---
-1. First ordered list item</br>
-2. Another item</br>
-    · ·* Unordered sub-list.</br>
-3. Actual numbers don’t matter, just that it’s a number</br>
-    · ·1. Ordered sub-list</br>
-    …2. 2nd</br>
-4. And another item. </br>
-    ...* note 1</br>
-    ...* note 2</br>
-    *** note 3
+1. First ordered list item
+2. Another item
+    * Unordered sub-list.
+3. Actual numbers don’t matter, just that it’s a number
+   1. Ordered sub-list
+   2. 2nd
+4. And another item.
+   * note 1
+   * note 2
+   * note 3
 ---
 - [ ] todo list
 - [ ] 2nd things
