@@ -24,7 +24,7 @@ gantt
 ---
 ### PERT/CPM 圖
 ![PERTorCPM](PERTorCPM_1004.jpg)
-
+</br>關鍵路徑:1➞2➞4➞6➞9➞11
 ## HackHD code_graphviz
 ```
 digraph{
